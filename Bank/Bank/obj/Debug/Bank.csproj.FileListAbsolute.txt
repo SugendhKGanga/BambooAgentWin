@@ -1,0 +1,17 @@
+D:\sampletest\Bank\Bank\bin\Debug\Bank.dll
+D:\sampletest\Bank\Bank\bin\Debug\Bank.pdb
+D:\sampletest\Bank\Bank\obj\Debug\Bank.dll
+D:\sampletest\Bank\Bank\obj\Debug\Bank.pdb
+D:\sampletest\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\sampletest\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\volume\Bank\Bank\bin\Debug\Bank.dll
+C:\volume\Bank\Bank\bin\Debug\Bank.pdb
+C:\volume\Bank\Bank\bin\Debug\mscorlib.dll
+C:\volume\Bank\Bank\bin\Debug\normidna.nlp
+C:\volume\Bank\Bank\bin\Debug\normnfc.nlp
+C:\volume\Bank\Bank\bin\Debug\normnfd.nlp
+C:\volume\Bank\Bank\bin\Debug\normnfkc.nlp
+C:\volume\Bank\Bank\bin\Debug\normnfkd.nlp
+C:\volume\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\volume\Bank\Bank\obj\Debug\Bank.dll
+C:\volume\Bank\Bank\obj\Debug\Bank.pdb
